@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Cresça Conosco
+authors:
+  - family-names: Caldas de Mello
+    given-names: Ana Carolina 
+  - family-names: Alejandro Figueiro Galindo
+    given-names: Gabriel
+  - family-names: Menezes Barbosa
+    given-names: Gustavo
+  - family-names: Queiroz Rocha
+    given-names: João Pedro
+  - family-names: Dias Camara
+    given-names: Pedro Henrique
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Amaral Baroni de Carvalho
+    given-names: Juliana
+keywords:
+  - Fazenda
+  - Gado Leiteiro 
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti3-8966100-fazendinha-feliz
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-19
