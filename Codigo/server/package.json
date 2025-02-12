@@ -1,0 +1,25 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "pm2 start index.js --max-restarts 10",
+		"stop": "pm2 stop index.js",
+		"status": "pm2 status",
+		"logs": "pm2 logs"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^1.6.8",
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.5",
+		"express": "^4.18.3",
+		"nodemon": "^3.1.0",
+		"pg": "^8.11.3",
+		"pm2": "^5.3.1",
+		"swagger-jsdoc": "^6.2.8",
+		"swagger-ui-express": "^5.0.0"
+	}
+}
